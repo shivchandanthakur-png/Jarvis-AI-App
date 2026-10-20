@@ -1,0 +1,6 @@
+{
+  "name": "JARVIS Android AI Controller (हिंदी)",
+  "description": "Tony Stark JARVIS AI autonomous controller for Android devices with authentic Hindi voice audio, live hardware control, device activity automations, and futuristic holographic HUD.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

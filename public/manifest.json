@@ -1,0 +1,22 @@
+{
+  "short_name": "JARVIS",
+  "name": "JARVIS Android AI Controller",
+  "description": "Tony Stark JARVIS Autonomous AI Controller for Android (हिंदी ऑडियो)",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#030712",
+  "theme_color": "#00e5ff",
+  "display": "standalone",
+  "orientation": "portrait"
+}
